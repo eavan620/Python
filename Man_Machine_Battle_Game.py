@@ -1,3 +1,8 @@
+/ *
+  * Man-Machine battle game
+  * Either the man or the machine who wins two rounds will win the game.
+  */
+
 import time, random
 
 player_victory = 0
