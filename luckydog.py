@@ -1,3 +1,8 @@
+/*
+ * Create a function to find a lucky dog from a list
+ */
+
+
 import random, time 
 
 def luckydog(a,b,c):
