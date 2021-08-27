@@ -1,3 +1,7 @@
+/ *
+  * Get the mean number from a list and show the numbers below the average.
+  * /
+
 scores1 = [91,95,97,99,92,93,96,98]
 sum = 0
 scores2 = []
