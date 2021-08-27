@@ -1,3 +1,7 @@
+/*
+ * Create two functions to get a person's bonus which depends on the working time.
+ */
+
 def bonus(time):
 
 	if time < 6:
